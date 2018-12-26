@@ -1,0 +1,80 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Categories renders correctly 1`] = `
+.c0 {
+  padding: 0 8px;
+  border-top: 1px solid #ddd;
+  min-height: 40px;
+  background-color: #fff;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-wrap: nowrap;
+  -ms-flex-wrap: nowrap;
+  flex-wrap: nowrap;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+.c2 {
+  margin-right: 24px;
+  font-size: 1rem;
+  color: #ddd;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+}
+
+.c2.active {
+  color: #ea352d;
+  font-weight: bold;
+}
+
+.c2:last-child {
+  margin-right: 0;
+}
+
+<nav
+  className="c0"
+>
+  <div
+    className="c1"
+  >
+    <a
+      aria-current="page"
+      className="c2 active"
+      href="/"
+      onClick={[Function]}
+      style={Object {}}
+    >
+      All
+    </a>
+    <a
+      aria-current={null}
+      className="c2"
+      href="/category/1"
+      onClick={[Function]}
+    >
+      test
+    </a>
+  </div>
+</nav>
+`;

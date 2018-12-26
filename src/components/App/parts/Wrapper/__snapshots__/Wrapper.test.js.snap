@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Wrapper renders correctly 1`] = `
+.c0 {
+  padding-bottom: 16px;
+  min-height: calc(100vh - 60px);
+  color: #333;
+}
+
+<section
+  className="c0"
+>
+  Wrapper
+</section>
+`;

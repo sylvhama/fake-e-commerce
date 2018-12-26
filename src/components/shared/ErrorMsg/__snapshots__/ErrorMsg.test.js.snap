@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ErrorMsg renders correctly 1`] = `
+.c0 {
+  padding: 16px;
+  color: #ea352d;
+  text-align: center;
+}
+
+<p
+  className="c0"
+>
+  ErrorMsg
+</p>
+`;

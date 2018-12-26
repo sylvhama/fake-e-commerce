@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Anchor renders correctly 1`] = `
+.c0 {
+  color: #ea352d;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c0:hover {
+  -webkit-text-decoration: underline;
+  text-decoration: underline;
+}
+
+<a
+  className="c0"
+>
+  Anchor
+</a>
+`;

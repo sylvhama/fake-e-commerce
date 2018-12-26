@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Logo renders correctly 1`] = `
+<svg
+  height="50"
+  width="182"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <rect
+    fill="#dedede"
+    height="46"
+    width="178"
+    x="2"
+    y="2"
+  />
+  <text
+    alignmentBaseline="middle"
+    fill="#555555"
+    fontSize="18"
+    textAnchor="middle"
+    x="50%"
+    y="50%"
+  >
+    Logo SVG
+  </text>
+</svg>
+`;

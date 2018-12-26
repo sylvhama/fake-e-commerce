@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Container renders correctly 1`] = `
+.c0 {
+  margin: 0 auto;
+  padding: 16px 8px 0;
+}
+
+<div
+  className="c0"
+>
+  Container
+</div>
+`;
+
+exports[`Container renders correctly 2`] = `
+.c0 {
+  margin: 0 auto;
+  padding: 0 0 0;
+  max-width: 940px;
+}
+
+<div
+  className="c0"
+>
+  Container
+</div>
+`;

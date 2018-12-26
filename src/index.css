@@ -1,0 +1,20 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  font-size: 16px;
+  background-color: #f5f5f5;
+}
+
+h1,
+h2,
+h3,
+p {
+  margin: 0;
+  font-weight: normal;
+}
+
+* {
+  box-sizing: border-box;
+}

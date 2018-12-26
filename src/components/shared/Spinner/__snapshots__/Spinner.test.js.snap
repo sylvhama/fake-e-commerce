@@ -1,0 +1,57 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Spinner renders correctly 1`] = `
+.c0 {
+  border: 4px solid rgba(0,0,0,0.2);
+  border-top: 4px solid #ea352d;
+  width: 32px;
+  height: 32px;
+  display: inline-block;
+  border-radius: 50%;
+  -webkit-animation: iVXCSc 1s linear infinite;
+  animation: iVXCSc 1s linear infinite;
+}
+
+<span
+  className="c0"
+  size={32}
+/>
+`;
+
+exports[`Spinner renders correctly specific size and border width 1`] = `
+.c0 {
+  border: 10px solid rgba(0,0,0,0.2);
+  border-top: 10px solid #ea352d;
+  width: 42px;
+  height: 42px;
+  display: inline-block;
+  border-radius: 50%;
+  -webkit-animation: iVXCSc 1s linear infinite;
+  animation: iVXCSc 1s linear infinite;
+}
+
+<span
+  className="c0"
+  size={42}
+/>
+`;
+
+exports[`Spinner renders correctly with block 1`] = `
+.c0 {
+  border: 4px solid rgba(0,0,0,0.2);
+  border-top: 4px solid #ea352d;
+  width: 32px;
+  height: 32px;
+  display: inline-block;
+  border-radius: 50%;
+  -webkit-animation: iVXCSc 1s linear infinite;
+  animation: iVXCSc 1s linear infinite;
+  margin: 16px auto;
+  display: block;
+}
+
+<span
+  className="c0"
+  size={32}
+/>
+`;

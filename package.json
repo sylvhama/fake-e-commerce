@@ -1,0 +1,74 @@
+{
+  "name": "fake-e-commerce-sylvain-hamann",
+  "version": "1.0.0",
+  "description": "Testing few things",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --mode development --open",
+    "build": "webpack --mode production",
+    "test": "jest --watchAll",
+    "analyze": "source-map-explorer dist/main.*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m-rec/319fd915c7f2bd169646cd34f5360e2df57a18e0.git"
+  },
+  "author": "Sylvain Hamann",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m-rec/319fd915c7f2bd169646cd34f5360e2df57a18e0/issues"
+  },
+  "homepage": "https://github.com/m-rec/319fd915c7f2bd169646cd34f5360e2df57a18e0#readme",
+  "devDependencies": {
+    "@babel/core": "^7.1.2",
+    "@babel/plugin-proposal-class-properties": "^7.1.0",
+    "@babel/plugin-proposal-throw-expressions": "^7.0.0",
+    "@babel/plugin-syntax-dynamic-import": "^7.0.0",
+    "@babel/preset-env": "^7.1.0",
+    "@babel/preset-react": "^7.0.0",
+    "@svgr/webpack": "^3.1.0",
+    "babel-core": "^7.0.0-bridge.0",
+    "babel-loader": "^8.0.4",
+    "babel-plugin-styled-components": "^1.8.0",
+    "clean-webpack-plugin": "^0.1.19",
+    "copy-webpack-plugin": "^4.5.3",
+    "css-loader": "^1.0.0",
+    "file-loader": "^2.0.0",
+    "html-webpack-plugin": "^3.2.0",
+    "husky": "^1.1.1",
+    "jest": "^23.6.0",
+    "jest-styled-components": "^6.2.1",
+    "lint-staged": "^7.3.0",
+    "prettier": "^1.14.3",
+    "react-test-renderer": "^16.5.2",
+    "source-map-explorer": "^1.6.0",
+    "style-loader": "^0.23.1",
+    "webpack": "^4.20.2",
+    "webpack-cli": "^3.1.2",
+    "webpack-dev-server": "^3.1.9",
+    "workbox-webpack-plugin": "^3.6.2"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "*.{js,json,css,md}": [
+      "prettier --write",
+      "git add"
+    ]
+  },
+  "dependencies": {
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2",
+    "react-loadable": "^5.5.0",
+    "react-router-dom": "^4.3.1",
+    "styled-components": "^4.0.0"
+  },
+  "jest": {
+    "moduleNameMapper": {
+      "\\.svg": "<rootDir>/src/tests/svgrMock.js"
+    }
+  }
+}

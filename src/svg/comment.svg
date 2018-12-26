@@ -1,0 +1,8 @@
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<title>Speech balloon</title>
+<path d="M2 14L2.85714 12L4 12.6667L2 14Z" stroke="black" stroke-linejoin="round"/>
+<path d="M4 10H12" stroke="black"/>
+<path d="M4 8H12" stroke="black"/>
+<path d="M4 6H12" stroke="black"/>
+<path d="M15.5 8C15.5 9.46419 14.7099 10.8279 13.3569 11.8426C12.0037 12.8575 10.1114 13.5 8 13.5C5.88859 13.5 3.9963 12.8575 2.64315 11.8426C1.29014 10.8279 0.5 9.46419 0.5 8C0.5 6.53581 1.29014 5.17211 2.64315 4.15736C3.9963 3.14249 5.88859 2.5 8 2.5C10.1114 2.5 12.0037 3.14249 13.3569 4.15736C14.7099 5.17211 15.5 6.53581 15.5 8Z" stroke="black"/>
+</svg>
