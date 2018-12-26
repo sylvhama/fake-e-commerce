@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --mode development --open",
-    "build": "webpack --mode production",
+    "build": "webpack --mode production --env.prod",
     "test": "jest --watchAll",
     "analyze": "source-map-explorer dist/main.*"
   },
