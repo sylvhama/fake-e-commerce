@@ -9,7 +9,7 @@
       "price": 51,
       "is_sold_out": false,
       "shipping_fee": "Free",
-      "image": "http://dummyimage.com/400x400/000/fff?text=men1",
+      "image": "https://dummyimage.com/400x400/000/fff?text=men1",
       "category_id": 1
     },
     {
@@ -21,7 +21,7 @@
       "price": 10000,
       "is_sold_out": true,
       "shipping_fee": "Free",
-      "image": "http://dummyimage.com/400x400/000/fff?text=men2",
+      "image": "https://dummyimage.com/400x400/000/fff?text=men2",
       "category_id": 2
     },
     {
@@ -33,7 +33,7 @@
       "price": 1500,
       "is_sold_out": false,
       "shipping_fee": "Free",
-      "image": "http://dummyimage.com/400x400/000/fff?text=men3",
+      "image": "https://dummyimage.com/400x400/000/fff?text=men3",
       "category_id": 3
     },
     {
@@ -45,7 +45,7 @@
       "price": 38,
       "is_sold_out": false,
       "shipping_fee": "Free",
-      "image": "http://dummyimage.com/400x400/000/fff?text=men4",
+      "image": "https://dummyimage.com/400x400/000/fff?text=men4",
       "category_id": 4
     },
     {
@@ -57,7 +57,7 @@
       "price": 23,
       "is_sold_out": false,
       "shipping_fee": "Free",
-      "image": "http://dummyimage.com/400x400/000/fff?text=men5",
+      "image": "https://dummyimage.com/400x400/000/fff?text=men5",
       "category_id": 5
     },
     {
@@ -69,7 +69,7 @@
       "price": 92,
       "is_sold_out": true,
       "shipping_fee": "Free",
-      "image": "http://dummyimage.com/400x400/000/fff?text=men6",
+      "image": "https://dummyimage.com/400x400/000/fff?text=men6",
       "category_id": 1
     },
     {
@@ -81,7 +81,7 @@
       "price": 33,
       "is_sold_out": false,
       "shipping_fee": "Free",
-      "image": "http://dummyimage.com/400x400/000/fff?text=men7",
+      "image": "https://dummyimage.com/400x400/000/fff?text=men7",
       "category_id": 2
     },
     {
@@ -93,7 +93,7 @@
       "price": 75,
       "is_sold_out": false,
       "shipping_fee": "Free",
-      "image": "http://dummyimage.com/400x400/000/fff?text=men8",
+      "image": "https://dummyimage.com/400x400/000/fff?text=men8",
       "category_id": 3
     },
     {
@@ -105,7 +105,7 @@
       "price": 56,
       "is_sold_out": false,
       "shipping_fee": "Free",
-      "image": "http://dummyimage.com/400x400/000/fff?text=men9",
+      "image": "https://dummyimage.com/400x400/000/fff?text=men9",
       "category_id": 4
     },
     {
@@ -117,7 +117,7 @@
       "price": 33,
       "is_sold_out": false,
       "shipping_fee": "Free",
-      "image": "http://dummyimage.com/400x400/000/fff?text=men10",
+      "image": "https://dummyimage.com/400x400/000/fff?text=men10",
       "category_id": 5
     },
     {
@@ -129,7 +129,7 @@
       "price": 81,
       "is_sold_out": false,
       "shipping_fee": "Free",
-      "image": "http://dummyimage.com/400x400/000/fff?text=men11",
+      "image": "https://dummyimage.com/400x400/000/fff?text=men11",
       "category_id": 1
     },
     {
@@ -141,7 +141,7 @@
       "price": 72,
       "is_sold_out": false,
       "shipping_fee": "Free",
-      "image": "http://dummyimage.com/400x400/000/fff?text=men12",
+      "image": "https://dummyimage.com/400x400/000/fff?text=men12",
       "category_id": 2
     },
     {
@@ -153,7 +153,7 @@
       "price": 21,
       "is_sold_out": false,
       "shipping_fee": "Free",
-      "image": "http://dummyimage.com/400x400/000/fff?text=men13",
+      "image": "https://dummyimage.com/400x400/000/fff?text=men13",
       "category_id": 3
     },
     {
@@ -165,7 +165,7 @@
       "price": 30,
       "is_sold_out": true,
       "shipping_fee": "Free",
-      "image": "http://dummyimage.com/400x400/000/fff?text=men14",
+      "image": "https://dummyimage.com/400x400/000/fff?text=men14",
       "category_id": 4
     },
     {
@@ -177,7 +177,7 @@
       "price": 51,
       "is_sold_out": false,
       "shipping_fee": "Free",
-      "image": "http://dummyimage.com/400x400/000/fff?text=men15",
+      "image": "https://dummyimage.com/400x400/000/fff?text=men15",
       "category_id": 5
     },
     {
@@ -189,7 +189,7 @@
       "price": 66,
       "is_sold_out": false,
       "shipping_fee": "Free",
-      "image": "http://dummyimage.com/400x400/000/fff?text=men16",
+      "image": "https://dummyimage.com/400x400/000/fff?text=men16",
       "category_id": 1
     },
     {
@@ -201,7 +201,7 @@
       "price": 42,
       "is_sold_out": false,
       "shipping_fee": "Free",
-      "image": "http://dummyimage.com/400x400/000/fff?text=men17",
+      "image": "https://dummyimage.com/400x400/000/fff?text=men17",
       "category_id": 2
     },
     {
@@ -213,7 +213,7 @@
       "price": 25,
       "is_sold_out": false,
       "shipping_fee": "Free",
-      "image": "http://dummyimage.com/400x400/000/fff?text=men18",
+      "image": "https://dummyimage.com/400x400/000/fff?text=men18",
       "category_id": 3
     },
     {
@@ -225,7 +225,7 @@
       "price": 68,
       "is_sold_out": false,
       "shipping_fee": "Free",
-      "image": "http://dummyimage.com/400x400/000/fff?text=men19",
+      "image": "https://dummyimage.com/400x400/000/fff?text=men19",
       "category_id": 4
     },
     {
@@ -237,7 +237,7 @@
       "price": 19,
       "is_sold_out": false,
       "shipping_fee": "Free",
-      "image": "http://dummyimage.com/400x400/000/fff?text=men20",
+      "image": "https://dummyimage.com/400x400/000/fff?text=men20",
       "category_id": 5
     },
     {
@@ -249,7 +249,7 @@
       "price": 56,
       "is_sold_out": false,
       "shipping_fee": "Free",
-      "image": "http://dummyimage.com/400x400/000/fff?text=men21",
+      "image": "https://dummyimage.com/400x400/000/fff?text=men21",
       "category_id": 1
     },
     {
@@ -261,7 +261,7 @@
       "price": 4,
       "is_sold_out": false,
       "shipping_fee": "Free",
-      "image": "http://dummyimage.com/400x400/000/fff?text=men22",
+      "image": "https://dummyimage.com/400x400/000/fff?text=men22",
       "category_id": 2
     },
     {
@@ -273,7 +273,7 @@
       "price": 35,
       "is_sold_out": false,
       "shipping_fee": "Free",
-      "image": "http://dummyimage.com/400x400/000/fff?text=men23",
+      "image": "https://dummyimage.com/400x400/000/fff?text=men23",
       "category_id": 3
     },
     {
@@ -285,7 +285,7 @@
       "price": 3,
       "is_sold_out": false,
       "shipping_fee": "Free",
-      "image": "http://dummyimage.com/400x400/000/fff?text=men24",
+      "image": "https://dummyimage.com/400x400/000/fff?text=men24",
       "category_id": 4
     },
     {
@@ -297,7 +297,7 @@
       "price": 8,
       "is_sold_out": false,
       "shipping_fee": "Free",
-      "image": "http://dummyimage.com/400x400/000/fff?text=men25",
+      "image": "https://dummyimage.com/400x400/000/fff?text=men25",
       "category_id": 5
     },
     {
@@ -309,7 +309,7 @@
       "price": 44,
       "is_sold_out": false,
       "shipping_fee": "Free",
-      "image": "http://dummyimage.com/400x400/000/fff?text=men26",
+      "image": "https://dummyimage.com/400x400/000/fff?text=men26",
       "category_id": 1
     },
     {
@@ -321,7 +321,7 @@
       "price": 87,
       "is_sold_out": true,
       "shipping_fee": "Free",
-      "image": "http://dummyimage.com/400x400/000/fff?text=men27",
+      "image": "https://dummyimage.com/400x400/000/fff?text=men27",
       "category_id": 2
     },
     {
@@ -333,7 +333,7 @@
       "price": 10,
       "is_sold_out": false,
       "shipping_fee": "Free",
-      "image": "http://dummyimage.com/400x400/000/fff?text=men28",
+      "image": "https://dummyimage.com/400x400/000/fff?text=men28",
       "category_id": 3
     },
     {
@@ -345,7 +345,7 @@
       "price": 84,
       "is_sold_out": false,
       "shipping_fee": "Free",
-      "image": "http://dummyimage.com/400x400/000/fff?text=men29",
+      "image": "https://dummyimage.com/400x400/000/fff?text=men29",
       "category_id": 4
     },
     {
@@ -357,7 +357,7 @@
       "price": 54,
       "is_sold_out": false,
       "shipping_fee": "Free",
-      "image": "http://dummyimage.com/400x400/000/fff?text=men30",
+      "image": "https://dummyimage.com/400x400/000/fff?text=men30",
       "category_id": 5
     },
     {
@@ -369,7 +369,7 @@
       "price": 7,
       "is_sold_out": false,
       "shipping_fee": "Free",
-      "image": "http://dummyimage.com/400x400/000/fff?text=men31",
+      "image": "https://dummyimage.com/400x400/000/fff?text=men31",
       "category_id": 1
     },
     {
@@ -381,7 +381,7 @@
       "price": 34,
       "is_sold_out": false,
       "shipping_fee": "Free",
-      "image": "http://dummyimage.com/400x400/000/fff?text=men32",
+      "image": "https://dummyimage.com/400x400/000/fff?text=men32",
       "category_id": 2
     },
     {
@@ -393,7 +393,7 @@
       "price": 19,
       "is_sold_out": false,
       "shipping_fee": "Free",
-      "image": "http://dummyimage.com/400x400/000/fff?text=men33",
+      "image": "https://dummyimage.com/400x400/000/fff?text=men33",
       "category_id": 3
     },
     {
@@ -405,7 +405,7 @@
       "price": 96,
       "is_sold_out": false,
       "shipping_fee": "Free",
-      "image": "http://dummyimage.com/400x400/000/fff?text=men34",
+      "image": "https://dummyimage.com/400x400/000/fff?text=men34",
       "category_id": 4
     },
     {
@@ -417,7 +417,7 @@
       "price": 7,
       "is_sold_out": false,
       "shipping_fee": "Free",
-      "image": "http://dummyimage.com/400x400/000/fff?text=men35",
+      "image": "https://dummyimage.com/400x400/000/fff?text=men35",
       "category_id": 5
     },
     {
@@ -429,7 +429,7 @@
       "price": 6,
       "is_sold_out": false,
       "shipping_fee": "Free",
-      "image": "http://dummyimage.com/400x400/000/fff?text=men36",
+      "image": "https://dummyimage.com/400x400/000/fff?text=men36",
       "category_id": 1
     },
     {
@@ -441,7 +441,7 @@
       "price": 42,
       "is_sold_out": false,
       "shipping_fee": "Free",
-      "image": "http://dummyimage.com/400x400/000/fff?text=men37",
+      "image": "https://dummyimage.com/400x400/000/fff?text=men37",
       "category_id": 2
     },
     {
@@ -453,7 +453,7 @@
       "price": 48,
       "is_sold_out": false,
       "shipping_fee": "Free",
-      "image": "http://dummyimage.com/400x400/000/fff?text=men38",
+      "image": "https://dummyimage.com/400x400/000/fff?text=men38",
       "category_id": 3
     },
     {
@@ -465,7 +465,7 @@
       "price": 82,
       "is_sold_out": false,
       "shipping_fee": "Free",
-      "image": "http://dummyimage.com/400x400/000/fff?text=men39",
+      "image": "https://dummyimage.com/400x400/000/fff?text=men39",
       "category_id": 4
     },
     {
@@ -477,7 +477,7 @@
       "price": 8,
       "is_sold_out": false,
       "shipping_fee": "Free",
-      "image": "http://dummyimage.com/400x400/000/fff?text=men40",
+      "image": "https://dummyimage.com/400x400/000/fff?text=men40",
       "category_id": 5
     },
     {
@@ -489,7 +489,7 @@
       "price": 27,
       "is_sold_out": false,
       "shipping_fee": "Free",
-      "image": "http://dummyimage.com/400x400/000/fff?text=men41",
+      "image": "https://dummyimage.com/400x400/000/fff?text=men41",
       "category_id": 1
     },
     {
@@ -501,7 +501,7 @@
       "price": 27,
       "is_sold_out": false,
       "shipping_fee": "Free",
-      "image": "http://dummyimage.com/400x400/000/fff?text=men42",
+      "image": "https://dummyimage.com/400x400/000/fff?text=men42",
       "category_id": 2
     },
     {
@@ -513,7 +513,7 @@
       "price": 8,
       "is_sold_out": false,
       "shipping_fee": "Free",
-      "image": "http://dummyimage.com/400x400/000/fff?text=men43",
+      "image": "https://dummyimage.com/400x400/000/fff?text=men43",
       "category_id": 3
     },
     {
@@ -525,7 +525,7 @@
       "price": 35,
       "is_sold_out": false,
       "shipping_fee": "Free",
-      "image": "http://dummyimage.com/400x400/000/fff?text=men44",
+      "image": "https://dummyimage.com/400x400/000/fff?text=men44",
       "category_id": 4
     },
     {
@@ -537,7 +537,7 @@
       "price": 94,
       "is_sold_out": false,
       "shipping_fee": "Free",
-      "image": "http://dummyimage.com/400x400/000/fff?text=men45",
+      "image": "https://dummyimage.com/400x400/000/fff?text=men45",
       "category_id": 5
     },
     {
@@ -549,7 +549,7 @@
       "price": 1,
       "is_sold_out": false,
       "shipping_fee": "Free",
-      "image": "http://dummyimage.com/400x400/000/fff?text=men46",
+      "image": "https://dummyimage.com/400x400/000/fff?text=men46",
       "category_id": 1
     },
     {
@@ -561,7 +561,7 @@
       "price": 5,
       "is_sold_out": false,
       "shipping_fee": "Free",
-      "image": "http://dummyimage.com/400x400/000/fff?text=men47",
+      "image": "https://dummyimage.com/400x400/000/fff?text=men47",
       "category_id": 2
     },
     {
@@ -573,7 +573,7 @@
       "price": 74,
       "is_sold_out": false,
       "shipping_fee": "Free",
-      "image": "http://dummyimage.com/400x400/000/fff?text=men48",
+      "image": "https://dummyimage.com/400x400/000/fff?text=men48",
       "category_id": 3
     },
     {
@@ -585,7 +585,7 @@
       "price": 35,
       "is_sold_out": true,
       "shipping_fee": "Free",
-      "image": "http://dummyimage.com/400x400/000/fff?text=men49",
+      "image": "https://dummyimage.com/400x400/000/fff?text=men49",
       "category_id": 4
     },
     {
@@ -597,7 +597,7 @@
       "price": 78,
       "is_sold_out": false,
       "shipping_fee": "Free",
-      "image": "http://dummyimage.com/400x400/000/fff?text=men50",
+      "image": "https://dummyimage.com/400x400/000/fff?text=men50",
       "category_id": 5
     }
   ]
