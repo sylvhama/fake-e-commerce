@@ -1,5 +1,5 @@
 export default ({
-  host = 'http://localhost:8080',
+  host = process.env.prod ? 'https://sylvhama-fake-e-commerce.netlify.com' : 'http://localhost:8080',
   route,
   method,
   authorization,
