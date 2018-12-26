@@ -1,5 +1,5 @@
 export default ({
-  host = process.env.prod ? 'https://sylvhama-fake-e-commerce.netlify.com' : 'http://localhost:8080',
+  host = process.env.NODE_ENV === 'production' ? 'https://sylvhama-fake-e-commerce.netlify.com' : 'http://localhost:8080',
   route,
   method,
   authorization,
