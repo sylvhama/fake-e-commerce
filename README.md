@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.com/sylvhama/fake-e-commerce.svg?branch=master)](https://travis-ci.com/sylvhama/fake-e-commerce)
 
-Project made when applying to an e-commerce company. The goal was to devlop a list of products with a filter and a detail page in one week without any boilerplate.  
+Project made when applying to an e-commerce company. The goal was to develop a list of products with a filter and a detail page in one week without any boilerplate.  
 I think the code is not too bad so I decided to publish it without giving company details. I also have removed their API, I only kept the JSON files so don't mind that part.
 I might refactor it with Hooks and create a proper API with GraphQL if I have time someday...
 
